@@ -1,0 +1,27 @@
+{
+  "name": "Маратқызы Д. — Моё расписание",
+  "short_name": "Маратқызы Д.",
+  "description": "Расписание по исходной таблице Маратқызы Д.; даты октября — декабря 2026 условные",
+  "id": "./",
+  "start_url": "./?source=home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0d111c",
+  "theme_color": "#0d111c",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

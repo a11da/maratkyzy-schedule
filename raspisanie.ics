@@ -1,0 +1,3636 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Campus//Maratkyzy Timetable//RU
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Маратқызы Д. — предварительное ра
+ списание
+X-WR-TIMEZONE:Asia/Almaty
+BEGIN:VTIMEZONE
+TZID:Asia/Almaty
+BEGIN:STANDARD
+DTSTART:20240101T000000
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:maratkyzy-20261012-1@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261012T090000
+DTEND;TZID=Asia/Almaty:20261012T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261012-2@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261012T100000
+DTEND;TZID=Asia/Almaty:20261012T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261012-3@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261012T110000
+DTEND;TZID=Asia/Almaty:20261012T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(522)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261012-4@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261012T120000
+DTEND;TZID=Asia/Almaty:20261012T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261013-5@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261013T100000
+DTEND;TZID=Asia/Almaty:20261013T105000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261013-6@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261013T110000
+DTEND;TZID=Asia/Almaty:20261013T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261013-7@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261013T120000
+DTEND;TZID=Asia/Almaty:20261013T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261013-8@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261013T130000
+DTEND;TZID=Asia/Almaty:20261013T135000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(417)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261014-9@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261014T090000
+DTEND;TZID=Asia/Almaty:20261014T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261014-10@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261014T100000
+DTEND;TZID=Asia/Almaty:20261014T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261014-11@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261014T110000
+DTEND;TZID=Asia/Almaty:20261014T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261014-12@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261014T120000
+DTEND;TZID=Asia/Almaty:20261014T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261015-13@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261015T080000
+DTEND;TZID=Asia/Almaty:20261015T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261015-14@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261015T090000
+DTEND;TZID=Asia/Almaty:20261015T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261015-15@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261015T100000
+DTEND;TZID=Asia/Almaty:20261015T105000
+SUMMARY:[Уточнить] Экономикалық мәтіндерді а
+ удару
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .\nУТОЧНИТЬ: в четверг на 10:00 в таблице ука
+ заны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261015-16@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261015T100000
+DTEND;TZID=Asia/Almaty:20261015T105000
+SUMMARY:[Уточнить] Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.\nУТОЧНИТЬ: в четверг на 10:00 в таблице ук
+ азаны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261015-17@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261015T110000
+DTEND;TZID=Asia/Almaty:20261015T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261015-18@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261015T120000
+DTEND;TZID=Asia/Almaty:20261015T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261015-19@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261015T130000
+DTEND;TZID=Asia/Almaty:20261015T135000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261016-20@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261016T080000
+DTEND;TZID=Asia/Almaty:20261016T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261016-21@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261016T090000
+DTEND;TZID=Asia/Almaty:20261016T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261016-22@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261016T100000
+DTEND;TZID=Asia/Almaty:20261016T105000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261016-23@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261016T110000
+DTEND;TZID=Asia/Almaty:20261016T115000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261016-24@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261016T120000
+DTEND;TZID=Asia/Almaty:20261016T125000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261019-1@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261019T090000
+DTEND;TZID=Asia/Almaty:20261019T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261019-2@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261019T100000
+DTEND;TZID=Asia/Almaty:20261019T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261019-3@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261019T110000
+DTEND;TZID=Asia/Almaty:20261019T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(522)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261019-4@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261019T120000
+DTEND;TZID=Asia/Almaty:20261019T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261020-5@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261020T100000
+DTEND;TZID=Asia/Almaty:20261020T105000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261020-6@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261020T110000
+DTEND;TZID=Asia/Almaty:20261020T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261020-7@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261020T120000
+DTEND;TZID=Asia/Almaty:20261020T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261020-8@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261020T130000
+DTEND;TZID=Asia/Almaty:20261020T135000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(417)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261021-9@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261021T090000
+DTEND;TZID=Asia/Almaty:20261021T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261021-10@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261021T100000
+DTEND;TZID=Asia/Almaty:20261021T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261021-11@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261021T110000
+DTEND;TZID=Asia/Almaty:20261021T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261021-12@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261021T120000
+DTEND;TZID=Asia/Almaty:20261021T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261022-13@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261022T080000
+DTEND;TZID=Asia/Almaty:20261022T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261022-14@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261022T090000
+DTEND;TZID=Asia/Almaty:20261022T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261022-15@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261022T100000
+DTEND;TZID=Asia/Almaty:20261022T105000
+SUMMARY:[Уточнить] Экономикалық мәтіндерді а
+ удару
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .\nУТОЧНИТЬ: в четверг на 10:00 в таблице ука
+ заны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261022-16@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261022T100000
+DTEND;TZID=Asia/Almaty:20261022T105000
+SUMMARY:[Уточнить] Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.\nУТОЧНИТЬ: в четверг на 10:00 в таблице ук
+ азаны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261022-17@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261022T110000
+DTEND;TZID=Asia/Almaty:20261022T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261022-18@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261022T120000
+DTEND;TZID=Asia/Almaty:20261022T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261022-19@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261022T130000
+DTEND;TZID=Asia/Almaty:20261022T135000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261023-20@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261023T080000
+DTEND;TZID=Asia/Almaty:20261023T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261023-21@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261023T090000
+DTEND;TZID=Asia/Almaty:20261023T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261023-22@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261023T100000
+DTEND;TZID=Asia/Almaty:20261023T105000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261023-23@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261023T110000
+DTEND;TZID=Asia/Almaty:20261023T115000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261023-24@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261023T120000
+DTEND;TZID=Asia/Almaty:20261023T125000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261026-1@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261026T090000
+DTEND;TZID=Asia/Almaty:20261026T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261026-2@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261026T100000
+DTEND;TZID=Asia/Almaty:20261026T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261026-3@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261026T110000
+DTEND;TZID=Asia/Almaty:20261026T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(522)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261026-4@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261026T120000
+DTEND;TZID=Asia/Almaty:20261026T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261027-5@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261027T100000
+DTEND;TZID=Asia/Almaty:20261027T105000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261027-6@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261027T110000
+DTEND;TZID=Asia/Almaty:20261027T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261027-7@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261027T120000
+DTEND;TZID=Asia/Almaty:20261027T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261027-8@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261027T130000
+DTEND;TZID=Asia/Almaty:20261027T135000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(417)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261028-9@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261028T090000
+DTEND;TZID=Asia/Almaty:20261028T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261028-10@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261028T100000
+DTEND;TZID=Asia/Almaty:20261028T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261028-11@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261028T110000
+DTEND;TZID=Asia/Almaty:20261028T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261028-12@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261028T120000
+DTEND;TZID=Asia/Almaty:20261028T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261029-13@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261029T080000
+DTEND;TZID=Asia/Almaty:20261029T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261029-14@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261029T090000
+DTEND;TZID=Asia/Almaty:20261029T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261029-15@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261029T100000
+DTEND;TZID=Asia/Almaty:20261029T105000
+SUMMARY:[Уточнить] Экономикалық мәтіндерді а
+ удару
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .\nУТОЧНИТЬ: в четверг на 10:00 в таблице ука
+ заны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261029-16@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261029T100000
+DTEND;TZID=Asia/Almaty:20261029T105000
+SUMMARY:[Уточнить] Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.\nУТОЧНИТЬ: в четверг на 10:00 в таблице ук
+ азаны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261029-17@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261029T110000
+DTEND;TZID=Asia/Almaty:20261029T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261029-18@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261029T120000
+DTEND;TZID=Asia/Almaty:20261029T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261029-19@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261029T130000
+DTEND;TZID=Asia/Almaty:20261029T135000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261030-20@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261030T080000
+DTEND;TZID=Asia/Almaty:20261030T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261030-21@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261030T090000
+DTEND;TZID=Asia/Almaty:20261030T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261030-22@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261030T100000
+DTEND;TZID=Asia/Almaty:20261030T105000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261030-23@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261030T110000
+DTEND;TZID=Asia/Almaty:20261030T115000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261030-24@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261030T120000
+DTEND;TZID=Asia/Almaty:20261030T125000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261102-1@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261102T090000
+DTEND;TZID=Asia/Almaty:20261102T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261102-2@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261102T100000
+DTEND;TZID=Asia/Almaty:20261102T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261102-3@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261102T110000
+DTEND;TZID=Asia/Almaty:20261102T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(522)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261102-4@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261102T120000
+DTEND;TZID=Asia/Almaty:20261102T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261103-5@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261103T100000
+DTEND;TZID=Asia/Almaty:20261103T105000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261103-6@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261103T110000
+DTEND;TZID=Asia/Almaty:20261103T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261103-7@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261103T120000
+DTEND;TZID=Asia/Almaty:20261103T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261103-8@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261103T130000
+DTEND;TZID=Asia/Almaty:20261103T135000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(417)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261104-9@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261104T090000
+DTEND;TZID=Asia/Almaty:20261104T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261104-10@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261104T100000
+DTEND;TZID=Asia/Almaty:20261104T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261104-11@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261104T110000
+DTEND;TZID=Asia/Almaty:20261104T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261104-12@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261104T120000
+DTEND;TZID=Asia/Almaty:20261104T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261105-13@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261105T080000
+DTEND;TZID=Asia/Almaty:20261105T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261105-14@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261105T090000
+DTEND;TZID=Asia/Almaty:20261105T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261105-15@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261105T100000
+DTEND;TZID=Asia/Almaty:20261105T105000
+SUMMARY:[Уточнить] Экономикалық мәтіндерді а
+ удару
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .\nУТОЧНИТЬ: в четверг на 10:00 в таблице ука
+ заны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261105-16@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261105T100000
+DTEND;TZID=Asia/Almaty:20261105T105000
+SUMMARY:[Уточнить] Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.\nУТОЧНИТЬ: в четверг на 10:00 в таблице ук
+ азаны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261105-17@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261105T110000
+DTEND;TZID=Asia/Almaty:20261105T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261105-18@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261105T120000
+DTEND;TZID=Asia/Almaty:20261105T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261105-19@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261105T130000
+DTEND;TZID=Asia/Almaty:20261105T135000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261106-20@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261106T080000
+DTEND;TZID=Asia/Almaty:20261106T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261106-21@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261106T090000
+DTEND;TZID=Asia/Almaty:20261106T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261106-22@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261106T100000
+DTEND;TZID=Asia/Almaty:20261106T105000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261106-23@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261106T110000
+DTEND;TZID=Asia/Almaty:20261106T115000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261106-24@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261106T120000
+DTEND;TZID=Asia/Almaty:20261106T125000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261109-1@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261109T090000
+DTEND;TZID=Asia/Almaty:20261109T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261109-2@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261109T100000
+DTEND;TZID=Asia/Almaty:20261109T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261109-3@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261109T110000
+DTEND;TZID=Asia/Almaty:20261109T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(522)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261109-4@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261109T120000
+DTEND;TZID=Asia/Almaty:20261109T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261110-5@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261110T100000
+DTEND;TZID=Asia/Almaty:20261110T105000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261110-6@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261110T110000
+DTEND;TZID=Asia/Almaty:20261110T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261110-7@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261110T120000
+DTEND;TZID=Asia/Almaty:20261110T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261110-8@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261110T130000
+DTEND;TZID=Asia/Almaty:20261110T135000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(417)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261111-9@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261111T090000
+DTEND;TZID=Asia/Almaty:20261111T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261111-10@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261111T100000
+DTEND;TZID=Asia/Almaty:20261111T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261111-11@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261111T110000
+DTEND;TZID=Asia/Almaty:20261111T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261111-12@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261111T120000
+DTEND;TZID=Asia/Almaty:20261111T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261112-13@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261112T080000
+DTEND;TZID=Asia/Almaty:20261112T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261112-14@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261112T090000
+DTEND;TZID=Asia/Almaty:20261112T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261112-15@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261112T100000
+DTEND;TZID=Asia/Almaty:20261112T105000
+SUMMARY:[Уточнить] Экономикалық мәтіндерді а
+ удару
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .\nУТОЧНИТЬ: в четверг на 10:00 в таблице ука
+ заны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261112-16@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261112T100000
+DTEND;TZID=Asia/Almaty:20261112T105000
+SUMMARY:[Уточнить] Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.\nУТОЧНИТЬ: в четверг на 10:00 в таблице ук
+ азаны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261112-17@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261112T110000
+DTEND;TZID=Asia/Almaty:20261112T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261112-18@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261112T120000
+DTEND;TZID=Asia/Almaty:20261112T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261112-19@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261112T130000
+DTEND;TZID=Asia/Almaty:20261112T135000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261113-20@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261113T080000
+DTEND;TZID=Asia/Almaty:20261113T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261113-21@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261113T090000
+DTEND;TZID=Asia/Almaty:20261113T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261113-22@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261113T100000
+DTEND;TZID=Asia/Almaty:20261113T105000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261113-23@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261113T110000
+DTEND;TZID=Asia/Almaty:20261113T115000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261113-24@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261113T120000
+DTEND;TZID=Asia/Almaty:20261113T125000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261116-1@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261116T090000
+DTEND;TZID=Asia/Almaty:20261116T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261116-2@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261116T100000
+DTEND;TZID=Asia/Almaty:20261116T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261116-3@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261116T110000
+DTEND;TZID=Asia/Almaty:20261116T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(522)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261116-4@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261116T120000
+DTEND;TZID=Asia/Almaty:20261116T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261117-5@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261117T100000
+DTEND;TZID=Asia/Almaty:20261117T105000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261117-6@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261117T110000
+DTEND;TZID=Asia/Almaty:20261117T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261117-7@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261117T120000
+DTEND;TZID=Asia/Almaty:20261117T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261117-8@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261117T130000
+DTEND;TZID=Asia/Almaty:20261117T135000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(417)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261118-9@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261118T090000
+DTEND;TZID=Asia/Almaty:20261118T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261118-10@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261118T100000
+DTEND;TZID=Asia/Almaty:20261118T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261118-11@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261118T110000
+DTEND;TZID=Asia/Almaty:20261118T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261118-12@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261118T120000
+DTEND;TZID=Asia/Almaty:20261118T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261119-13@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261119T080000
+DTEND;TZID=Asia/Almaty:20261119T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261119-14@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261119T090000
+DTEND;TZID=Asia/Almaty:20261119T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261119-15@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261119T100000
+DTEND;TZID=Asia/Almaty:20261119T105000
+SUMMARY:[Уточнить] Экономикалық мәтіндерді а
+ удару
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .\nУТОЧНИТЬ: в четверг на 10:00 в таблице ука
+ заны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261119-16@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261119T100000
+DTEND;TZID=Asia/Almaty:20261119T105000
+SUMMARY:[Уточнить] Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.\nУТОЧНИТЬ: в четверг на 10:00 в таблице ук
+ азаны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261119-17@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261119T110000
+DTEND;TZID=Asia/Almaty:20261119T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261119-18@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261119T120000
+DTEND;TZID=Asia/Almaty:20261119T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261119-19@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261119T130000
+DTEND;TZID=Asia/Almaty:20261119T135000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261120-20@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261120T080000
+DTEND;TZID=Asia/Almaty:20261120T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261120-21@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261120T090000
+DTEND;TZID=Asia/Almaty:20261120T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261120-22@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261120T100000
+DTEND;TZID=Asia/Almaty:20261120T105000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261120-23@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261120T110000
+DTEND;TZID=Asia/Almaty:20261120T115000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261120-24@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261120T120000
+DTEND;TZID=Asia/Almaty:20261120T125000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261123-1@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261123T090000
+DTEND;TZID=Asia/Almaty:20261123T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261123-2@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261123T100000
+DTEND;TZID=Asia/Almaty:20261123T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261123-3@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261123T110000
+DTEND;TZID=Asia/Almaty:20261123T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(522)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261123-4@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261123T120000
+DTEND;TZID=Asia/Almaty:20261123T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261124-5@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261124T100000
+DTEND;TZID=Asia/Almaty:20261124T105000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261124-6@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261124T110000
+DTEND;TZID=Asia/Almaty:20261124T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261124-7@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261124T120000
+DTEND;TZID=Asia/Almaty:20261124T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261124-8@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261124T130000
+DTEND;TZID=Asia/Almaty:20261124T135000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(417)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261125-9@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261125T090000
+DTEND;TZID=Asia/Almaty:20261125T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261125-10@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261125T100000
+DTEND;TZID=Asia/Almaty:20261125T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261125-11@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261125T110000
+DTEND;TZID=Asia/Almaty:20261125T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261125-12@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261125T120000
+DTEND;TZID=Asia/Almaty:20261125T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261126-13@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261126T080000
+DTEND;TZID=Asia/Almaty:20261126T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261126-14@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261126T090000
+DTEND;TZID=Asia/Almaty:20261126T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261126-15@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261126T100000
+DTEND;TZID=Asia/Almaty:20261126T105000
+SUMMARY:[Уточнить] Экономикалық мәтіндерді а
+ удару
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .\nУТОЧНИТЬ: в четверг на 10:00 в таблице ука
+ заны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261126-16@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261126T100000
+DTEND;TZID=Asia/Almaty:20261126T105000
+SUMMARY:[Уточнить] Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.\nУТОЧНИТЬ: в четверг на 10:00 в таблице ук
+ азаны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261126-17@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261126T110000
+DTEND;TZID=Asia/Almaty:20261126T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261126-18@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261126T120000
+DTEND;TZID=Asia/Almaty:20261126T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261126-19@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261126T130000
+DTEND;TZID=Asia/Almaty:20261126T135000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261127-20@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261127T080000
+DTEND;TZID=Asia/Almaty:20261127T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261127-21@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261127T090000
+DTEND;TZID=Asia/Almaty:20261127T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261127-22@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261127T100000
+DTEND;TZID=Asia/Almaty:20261127T105000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261127-23@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261127T110000
+DTEND;TZID=Asia/Almaty:20261127T115000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261127-24@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261127T120000
+DTEND;TZID=Asia/Almaty:20261127T125000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261130-1@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261130T090000
+DTEND;TZID=Asia/Almaty:20261130T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261130-2@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261130T100000
+DTEND;TZID=Asia/Almaty:20261130T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261130-3@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261130T110000
+DTEND;TZID=Asia/Almaty:20261130T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(522)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261130-4@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261130T120000
+DTEND;TZID=Asia/Almaty:20261130T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261201-5@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261201T100000
+DTEND;TZID=Asia/Almaty:20261201T105000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261201-6@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261201T110000
+DTEND;TZID=Asia/Almaty:20261201T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261201-7@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261201T120000
+DTEND;TZID=Asia/Almaty:20261201T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261201-8@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261201T130000
+DTEND;TZID=Asia/Almaty:20261201T135000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(417)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261202-9@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261202T090000
+DTEND;TZID=Asia/Almaty:20261202T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261202-10@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261202T100000
+DTEND;TZID=Asia/Almaty:20261202T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261202-11@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261202T110000
+DTEND;TZID=Asia/Almaty:20261202T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261202-12@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261202T120000
+DTEND;TZID=Asia/Almaty:20261202T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261203-13@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261203T080000
+DTEND;TZID=Asia/Almaty:20261203T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261203-14@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261203T090000
+DTEND;TZID=Asia/Almaty:20261203T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261203-15@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261203T100000
+DTEND;TZID=Asia/Almaty:20261203T105000
+SUMMARY:[Уточнить] Экономикалық мәтіндерді а
+ удару
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .\nУТОЧНИТЬ: в четверг на 10:00 в таблице ука
+ заны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261203-16@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261203T100000
+DTEND;TZID=Asia/Almaty:20261203T105000
+SUMMARY:[Уточнить] Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.\nУТОЧНИТЬ: в четверг на 10:00 в таблице ук
+ азаны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261203-17@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261203T110000
+DTEND;TZID=Asia/Almaty:20261203T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261203-18@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261203T120000
+DTEND;TZID=Asia/Almaty:20261203T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261203-19@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261203T130000
+DTEND;TZID=Asia/Almaty:20261203T135000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261204-20@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261204T080000
+DTEND;TZID=Asia/Almaty:20261204T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261204-21@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261204T090000
+DTEND;TZID=Asia/Almaty:20261204T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261204-22@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261204T100000
+DTEND;TZID=Asia/Almaty:20261204T105000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261204-23@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261204T110000
+DTEND;TZID=Asia/Almaty:20261204T115000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261204-24@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261204T120000
+DTEND;TZID=Asia/Almaty:20261204T125000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261207-1@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261207T090000
+DTEND;TZID=Asia/Almaty:20261207T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261207-2@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261207T100000
+DTEND;TZID=Asia/Almaty:20261207T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261207-3@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261207T110000
+DTEND;TZID=Asia/Almaty:20261207T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(522)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261207-4@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261207T120000
+DTEND;TZID=Asia/Almaty:20261207T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261208-5@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261208T100000
+DTEND;TZID=Asia/Almaty:20261208T105000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261208-6@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261208T110000
+DTEND;TZID=Asia/Almaty:20261208T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261208-7@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261208T120000
+DTEND;TZID=Asia/Almaty:20261208T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261208-8@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261208T130000
+DTEND;TZID=Asia/Almaty:20261208T135000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(417)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261209-9@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261209T090000
+DTEND;TZID=Asia/Almaty:20261209T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261209-10@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261209T100000
+DTEND;TZID=Asia/Almaty:20261209T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261209-11@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261209T110000
+DTEND;TZID=Asia/Almaty:20261209T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261209-12@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261209T120000
+DTEND;TZID=Asia/Almaty:20261209T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261210-13@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261210T080000
+DTEND;TZID=Asia/Almaty:20261210T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261210-14@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261210T090000
+DTEND;TZID=Asia/Almaty:20261210T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261210-15@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261210T100000
+DTEND;TZID=Asia/Almaty:20261210T105000
+SUMMARY:[Уточнить] Экономикалық мәтіндерді а
+ удару
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .\nУТОЧНИТЬ: в четверг на 10:00 в таблице ука
+ заны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261210-16@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261210T100000
+DTEND;TZID=Asia/Almaty:20261210T105000
+SUMMARY:[Уточнить] Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.\nУТОЧНИТЬ: в четверг на 10:00 в таблице ук
+ азаны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261210-17@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261210T110000
+DTEND;TZID=Asia/Almaty:20261210T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261210-18@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261210T120000
+DTEND;TZID=Asia/Almaty:20261210T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261210-19@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261210T130000
+DTEND;TZID=Asia/Almaty:20261210T135000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261211-20@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261211T080000
+DTEND;TZID=Asia/Almaty:20261211T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261211-21@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261211T090000
+DTEND;TZID=Asia/Almaty:20261211T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261211-22@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261211T100000
+DTEND;TZID=Asia/Almaty:20261211T105000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261211-23@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261211T110000
+DTEND;TZID=Asia/Almaty:20261211T115000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261211-24@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261211T120000
+DTEND;TZID=Asia/Almaty:20261211T125000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261214-1@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261214T090000
+DTEND;TZID=Asia/Almaty:20261214T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261214-2@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261214T100000
+DTEND;TZID=Asia/Almaty:20261214T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261214-3@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261214T110000
+DTEND;TZID=Asia/Almaty:20261214T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(522)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261214-4@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261214T120000
+DTEND;TZID=Asia/Almaty:20261214T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261215-5@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261215T100000
+DTEND;TZID=Asia/Almaty:20261215T105000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261215-6@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261215T110000
+DTEND;TZID=Asia/Almaty:20261215T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261215-7@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261215T120000
+DTEND;TZID=Asia/Almaty:20261215T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261215-8@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261215T130000
+DTEND;TZID=Asia/Almaty:20261215T135000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(417)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261216-9@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261216T090000
+DTEND;TZID=Asia/Almaty:20261216T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261216-10@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261216T100000
+DTEND;TZID=Asia/Almaty:20261216T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261216-11@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261216T110000
+DTEND;TZID=Asia/Almaty:20261216T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261216-12@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261216T120000
+DTEND;TZID=Asia/Almaty:20261216T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261217-13@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261217T080000
+DTEND;TZID=Asia/Almaty:20261217T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261217-14@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261217T090000
+DTEND;TZID=Asia/Almaty:20261217T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261217-15@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261217T100000
+DTEND;TZID=Asia/Almaty:20261217T105000
+SUMMARY:[Уточнить] Экономикалық мәтіндерді а
+ удару
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .\nУТОЧНИТЬ: в четверг на 10:00 в таблице ука
+ заны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261217-16@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261217T100000
+DTEND;TZID=Asia/Almaty:20261217T105000
+SUMMARY:[Уточнить] Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.\nУТОЧНИТЬ: в четверг на 10:00 в таблице ук
+ азаны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261217-17@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261217T110000
+DTEND;TZID=Asia/Almaty:20261217T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261217-18@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261217T120000
+DTEND;TZID=Asia/Almaty:20261217T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261217-19@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261217T130000
+DTEND;TZID=Asia/Almaty:20261217T135000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261218-20@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261218T080000
+DTEND;TZID=Asia/Almaty:20261218T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261218-21@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261218T090000
+DTEND;TZID=Asia/Almaty:20261218T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261218-22@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261218T100000
+DTEND;TZID=Asia/Almaty:20261218T105000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261218-23@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261218T110000
+DTEND;TZID=Asia/Almaty:20261218T115000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261218-24@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261218T120000
+DTEND;TZID=Asia/Almaty:20261218T125000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261221-1@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261221T090000
+DTEND;TZID=Asia/Almaty:20261221T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261221-2@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261221T100000
+DTEND;TZID=Asia/Almaty:20261221T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261221-3@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261221T110000
+DTEND;TZID=Asia/Almaty:20261221T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(522)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261221-4@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261221T120000
+DTEND;TZID=Asia/Almaty:20261221T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261222-5@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261222T100000
+DTEND;TZID=Asia/Almaty:20261222T105000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261222-6@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261222T110000
+DTEND;TZID=Asia/Almaty:20261222T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261222-7@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261222T120000
+DTEND;TZID=Asia/Almaty:20261222T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261222-8@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261222T130000
+DTEND;TZID=Asia/Almaty:20261222T135000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(417)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261223-9@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261223T090000
+DTEND;TZID=Asia/Almaty:20261223T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261223-10@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261223T100000
+DTEND;TZID=Asia/Almaty:20261223T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261223-11@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261223T110000
+DTEND;TZID=Asia/Almaty:20261223T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261223-12@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261223T120000
+DTEND;TZID=Asia/Almaty:20261223T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261224-13@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261224T080000
+DTEND;TZID=Asia/Almaty:20261224T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261224-14@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261224T090000
+DTEND;TZID=Asia/Almaty:20261224T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261224-15@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261224T100000
+DTEND;TZID=Asia/Almaty:20261224T105000
+SUMMARY:[Уточнить] Экономикалық мәтіндерді а
+ удару
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .\nУТОЧНИТЬ: в четверг на 10:00 в таблице ука
+ заны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261224-16@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261224T100000
+DTEND;TZID=Asia/Almaty:20261224T105000
+SUMMARY:[Уточнить] Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.\nУТОЧНИТЬ: в четверг на 10:00 в таблице ук
+ азаны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261224-17@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261224T110000
+DTEND;TZID=Asia/Almaty:20261224T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261224-18@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261224T120000
+DTEND;TZID=Asia/Almaty:20261224T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261224-19@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261224T130000
+DTEND;TZID=Asia/Almaty:20261224T135000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261225-20@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261225T080000
+DTEND;TZID=Asia/Almaty:20261225T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261225-21@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261225T090000
+DTEND;TZID=Asia/Almaty:20261225T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261225-22@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261225T100000
+DTEND;TZID=Asia/Almaty:20261225T105000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(521)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261225-23@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261225T110000
+DTEND;TZID=Asia/Almaty:20261225T115000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261225-24@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261225T120000
+DTEND;TZID=Asia/Almaty:20261225T125000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261228-1@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261228T090000
+DTEND;TZID=Asia/Almaty:20261228T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261228-2@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261228T100000
+DTEND;TZID=Asia/Almaty:20261228T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Лекц
+ ия\nДаты условные: на исходной таблице не
+ т дат. Повторение недельного шаблона\; пр
+ аздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261228-3@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261228T110000
+DTEND;TZID=Asia/Almaty:20261228T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(522)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261228-4@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261228T120000
+DTEND;TZID=Asia/Almaty:20261228T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261229-5@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261229T100000
+DTEND;TZID=Asia/Almaty:20261229T105000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261229-6@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261229T110000
+DTEND;TZID=Asia/Almaty:20261229T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261229-7@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261229T120000
+DTEND;TZID=Asia/Almaty:20261229T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(423)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261229-8@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261229T130000
+DTEND;TZID=Asia/Almaty:20261229T135000
+SUMMARY:Экономикалық мәтіндерді аудару
+LOCATION:ВОС(417)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261230-9@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261230T090000
+DTEND;TZID=Asia/Almaty:20261230T095000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261230-10@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261230T100000
+DTEND;TZID=Asia/Almaty:20261230T105000
+SUMMARY:Оқитын тіл елінің тарихы
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Асыл М. Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261230-11@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261230T110000
+DTEND;TZID=Asia/Almaty:20261230T115000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261230-12@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261230T120000
+DTEND;TZID=Asia/Almaty:20261230T125000
+SUMMARY:Оқитын тіл елінің қазіргі заман әдеб
+ иеті
+LOCATION:ВОС(408)
+DESCRIPTION:Преподаватель: Мадиев Д. А.\nТип: Ле
+ кция\nДаты условные: на исходной таблице 
+ нет дат. Повторение недельного шаблона\; 
+ праздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261231-13@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261231T080000
+DTEND;TZID=Asia/Almaty:20261231T085000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261231-14@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261231T090000
+DTEND;TZID=Asia/Almaty:20261231T095000
+SUMMARY:Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261231-15@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261231T100000
+DTEND;TZID=Asia/Almaty:20261231T105000
+SUMMARY:[Уточнить] Экономикалық мәтіндерді а
+ удару
+LOCATION:ВОС(449)
+DESCRIPTION:Преподаватель: Құнбай Ж. К.\nТип: Се
+ минар\nДаты условные: на исходной таблиц
+ е нет дат. Повторение недельного шаблона
+ \; праздники\, переносы и сессия не учтены
+ .\nУТОЧНИТЬ: в четверг на 10:00 в таблице ука
+ заны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261231-16@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261231T100000
+DTEND;TZID=Asia/Almaty:20261231T105000
+SUMMARY:[Уточнить] Ғылыми мәтіндерді аудару
+LOCATION:ВОС(504)
+DESCRIPTION:Преподаватель: Дүйсенбай К.\nТип: С
+ еминар\nДаты условные: на исходной табли
+ це нет дат. Повторение недельного шаблон
+ а\; праздники\, переносы и сессия не учтен
+ ы.\nУТОЧНИТЬ: в четверг на 10:00 в таблице ук
+ азаны две пары.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261231-17@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261231T110000
+DTEND;TZID=Asia/Almaty:20261231T115000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261231-18@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261231T120000
+DTEND;TZID=Asia/Almaty:20261231T125000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(416)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+BEGIN:VEVENT
+UID:maratkyzy-20261231-19@a11da.github.io
+DTSTAMP:20261014T090501Z
+DTSTART;TZID=Asia/Almaty:20261231T130000
+DTEND;TZID=Asia/Almaty:20261231T135000
+SUMMARY:Академиялық мақсаттағы шет тілі
+LOCATION:ВОС(414)
+DESCRIPTION:Преподаватель: Маулит Б.\nТип: Семи
+ нар\nДаты условные: на исходной таблице н
+ ет дат. Повторение недельного шаблона\; п
+ раздники\, переносы и сессия не учтены.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0d111c">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Маратқызы Д.">
+  <meta name="description" content="Красивое расписание занятий Маратқызы Д. до декабря 2026. Работает офлайн после установки.">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" type="image/png" href="./icon-192.png">
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png">
+  <link rel="stylesheet" href="./styles.css">
+  <title>Маратқызы Д. · Моё расписание</title>
+</head>
+<body>
+<div class="ambient ambient-a"></div><div class="ambient ambient-b"></div>
+<div class="app-shell" id="app">
+  <aside class="sidebar">
+    <div class="logo-row"><div class="logo-mark" aria-hidden="true"><span>✦</span></div><div><div class="logo-title">campus<span class="logo-dot">.</span></div><div class="logo-caption">ТВОЙ УЧЕБНЫЙ ПЛАНЕР</div></div></div>
+    <div class="aside-label">НАВИГАЦИЯ</div>
+    <nav class="desktop-nav" aria-label="Разделы">
+      <button class="nav-btn active" data-view="day"><span class="nav-symbol">▦</span> Расписание</button>
+      <button class="nav-btn" data-view="week"><span class="nav-symbol">▤</span> Вся неделя</button>
+      <button class="nav-btn" data-view="settings"><span class="nav-symbol">⚙</span> Настройки</button>
+    </nav>
+    <div class="sidebar-spacer"></div>
+    <div class="side-panel"><div class="side-panel-tag"><span class="status-dot"></span> РАСПИСАНИЕ</div><div class="side-class">Маратқызы Д.</div><div class="side-muted">Осенний семестр · 2026</div><div class="line"></div><div class="side-muted">12 окт — 31 дек</div><div class="side-muted">24 пары в шаблонной неделе</div></div>
+    <div class="aside-footer">Перенесено с исходной таблицы</div>
+  </aside>
+  <main class="main-content">
+    <header class="topbar"><div class="topbar-left"><span class="eyebrow">STUDENT SPACE <span class="eyebrow-divider">/</span> Маратқызы Д.</span><h1>Моё расписание<span class="period">.</span></h1><p class="lead">Все занятия в одном месте — без бесконечных таблиц.</p></div><button class="today-button" id="todayBtn" type="button"><span class="today-ring"></span> Сегодня</button></header>
+    <section class="notice" id="notice" role="note"><div class="notice-icon">!</div><div><strong>Даты расписания — условные.</strong><span> На исходной таблице нет дат. Пары повторяются с 12 октября до 31 декабря 2026; переносы, праздники и сессия не учтены.</span></div><button type="button" id="noticeDismiss" aria-label="Скрыть предупреждение">×</button></section>
+    <section class="week-toolbar" aria-label="Выбор недели"><div><div class="small-label">УЧЕБНАЯ НЕДЕЛЯ <span id="weekNumber">01 / 12</span></div><div class="week-title" id="weekRange">12 — 17 октября</div></div><div class="toolbar-right"><button class="circle-button" id="prevWeek" aria-label="Предыдущая неделя">‹</button><button class="circle-button" id="nextWeek" aria-label="Следующая неделя">›</button><label class="jump-wrap" for="weekSelect">Выбрать <span aria-hidden="true">⌄</span><select id="weekSelect" aria-label="Перейти к неделе"></select></label></div></section>
+    <div class="view" id="dayView">
+      <div class="day-strip" id="dayStrip" role="group" aria-label="Дни недели"></div>
+      <section class="summary-row"><div><div class="small-label" id="dateLongLabel">СРЕДА / 14 ОКТЯБРЯ</div><h2 id="dayTitle">Среда</h2><div class="day-sub" id="daySubtitle">4 пары · 14:10 — 17:55</div></div><div class="stat-chip"><span class="stat-number" id="dayCount">4</span><span class="stat-word">пары<br>сегодня</span></div></section>
+      <div class="filter-row"><label class="search-wrap"><span>⌕</span><input id="searchInput" type="search" placeholder="Поиск предмета или преподавателя..." autocomplete="off" aria-label="Поиск занятий"></label><select id="typeFilter" class="type-filter" aria-label="Тип занятия"><option value="all">Все занятия</option><option value="Лекция">Лекции</option><option value="Семинар">Семинары</option></select></div>
+      <div class="timeline" id="lessonList" aria-live="polite"></div>
+    </div>
+    <section id="weekView" class="view hidden"><div class="section-head"><div><div class="small-label">ОБЗОР</div><h2>Неделя целиком</h2><p class="lead">Все пары с понедельника по субботу.</p></div></div><div id="weekCards" class="week-cards"></div></section>
+    <section id="settingsView" class="view hidden"><div class="section-head"><div><div class="small-label">ПЕРСОНАЛИЗАЦИЯ</div><h2>Настройки</h2><p class="lead">Управляй данными и установкой приложения.</p></div></div><div class="settings-grid">
+      <div class="settings-card"><div class="settings-icon">◐</div><h3>Внешний вид</h3><p>Выбери тему интерфейса.</p><div class="choice-buttons"><button class="choice active" type="button" data-theme="dark">Тёмная</button><button class="choice" type="button" data-theme="light">Светлая</button></div></div>
+      <div class="settings-card"><div class="settings-icon">↗</div><h3>Сохранённые данные</h3><p>Посещаемость и заметки хранятся только на этом устройстве.</p><button id="exportData" type="button" class="outline-button">Выгрузить заметки и статусы ↓</button><button id="clearData" type="button" class="danger-button">Очистить мои отметки</button></div>
+      <div class="settings-card"><div class="settings-icon">▦</div><h3>Календарь iPhone</h3><p>Добавь все 283 предполагаемых занятия в календарь.</p><a href="./raspisanie.ics" download="Maratkyzy-2026.ics" class="outline-button">Скачать календарь (.ics) ↓</a></div>
+      <div class="settings-card"><div class="settings-icon">＋</div><h3>Установить на iPhone</h3><p>Открой опубликованный сайт в Safari → «Поделиться» → «На экран Домой» → «Добавить».</p><div class="hint">После первого открытия онлайн приложение сможет работать без интернета.</div></div>
+    </div></section>
+    <footer class="footer">Маратқызы Д. <span>·</span> По исходной таблице Маратқызы Д. Даты условные; две пары в четверг на 10:00 требуют уточнения.</footer>
+  </main>
+  <nav class="mobile-nav" aria-label="Основное меню"><button type="button" class="mobile-nav-btn active" data-view="day"><span>▦</span><small>День</small></button><button type="button" class="mobile-nav-btn" data-view="week"><span>▤</span><small>Неделя</small></button><button type="button" class="mobile-nav-btn" data-view="settings"><span>⚙</span><small>Настройки</small></button></nav>
+</div>
+<dialog id="noteDialog" class="note-dialog"><form method="dialog" id="noteForm"><div class="modal-heading"><div><div class="small-label">ЗАМЕТКА К ПАРЕ</div><h3 id="noteTitle">Предмет</h3></div><button type="button" id="closeDialog" class="close-dialog" aria-label="Закрыть">×</button></div><label for="noteInput" class="small-label">ЧТО НУЖНО ЗАПОМНИТЬ?</label><textarea id="noteInput" placeholder="Например: подготовить отчёт к следующей паре..." rows="5" maxlength="2000"></textarea><div class="dialog-buttons"><button type="button" id="removeNote" class="danger-button">Удалить</button><button type="submit" class="primary-button" value="save">Сохранить</button></div></form></dialog>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<script src="./data.js" defer></script><script src="./app.js" defer></script>
+</body>
+</html>
